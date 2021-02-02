@@ -1,1 +1,1 @@
-# Webpack-init
+### 一个可以直接用的webpack配置
